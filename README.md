@@ -6,6 +6,8 @@ Fastai is written on Python and built top of Pytorch, which is one of the flexci
 # Dataset
 Source : Kaggle
 This dataset consists of test and train dataset, folderized into 7 different classes. 
+![image](https://user-images.githubusercontent.com/47946478/162562094-7d38038e-3bfc-4211-8c72-0fa1d34e7066.png)
+
 HAM10000 skin cancer lesions data tree (https://www.kaggle.com/tsaideepak/skincancer)
 
 # Architecture 
